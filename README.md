@@ -47,8 +47,26 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="947" height="621" alt="image" src="https://github.com/user-attachments/assets/d2efcddd-1550-4a8f-a2ae-c8b2b7a39754" />
+
+<img width="927" height="725" alt="image" src="https://github.com/user-attachments/assets/09cdacc1-ef34-4259-8f8e-185f40fb0215" />
+
+<img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/e00fe202-d663-4220-b228-35d09267076a" />
+
+<img width="949" height="592" alt="image" src="https://github.com/user-attachments/assets/9928ec15-0e5b-4822-a564-57def43f221d" />
+
+<img width="940" height="668" alt="image" src="https://github.com/user-attachments/assets/3e7feeb6-4b5e-4735-8c08-bcae9a69e810" />
+
+<img width="946" height="475" alt="image" src="https://github.com/user-attachments/assets/cab849ae-7a06-410c-a49c-5b28961e5bf7" />
+
+
+
+
+
+
+
+### Name:PON SARAVANA PANDIAN B
+### Register Number:212225230207
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
